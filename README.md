@@ -9,4 +9,4 @@
 |      |Nodo del Arbol | [ Codigo ](NodoArbol.java)   |
 |      |Arbol Binario | [ Codigo ](ArbolBinario.java)   |
 |      |Prueba del arbol | [ Codigo ](PruebaArbol.java)   |
-| 4    | NerpodDiccionarios | [ 📄 Ver PDF]()   |
+| 4    | NerpodDiccionarios | [ 📄 Ver PDF](Diccionarios_PadiernaDelgadoRamiro.pdf)   |
