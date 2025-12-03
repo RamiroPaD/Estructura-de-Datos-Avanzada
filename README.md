@@ -9,5 +9,5 @@
 |      |Nodo del Arbol | [ Codigo ](NodoArbol.java)   |
 |      |Arbol Binario | [ Codigo ](ArbolBinario.java)   |
 |      |Prueba del arbol | [ Codigo ](PruebaArbol.java)   |
-| 4    | NerpodDiccionarios | [ 📄 Ver PDF](Diccionarios_PadiernaDelgadoRamiro.pdf)   |
+| 4    | NerpodDiccionarios | [ 📄 Ver PDF](Diccionario_PadiernaDelgadoRamiro.pdf)   |
 | 5   |Conjuntos | [ 📄 Ver PDF](Conjuntos_PadiernaDelgadoRamiro.pdf)    |
