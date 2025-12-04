@@ -11,4 +11,4 @@
 |      |Prueba del arbol | [ Codigo ](PruebaArbol.java)   |
 | 4    | NerpodDiccionarios | [ 📄 Ver PDF](Diccionario_PadiernaDelgadoRamiro.pdf)   |
 | 5   |Conjuntos | [ 📄 Ver PDF](Conjuntos_PadiernaDelgadoRamiro.pdf)    |
-| 6   | | [ 📄 Ver PDF]()    |
+| 6   |Mapa Mental | [ 📄 Ver PDF](MapaMental_PadiernaDelgadoRamiro.pdf)    |
